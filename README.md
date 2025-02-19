@@ -1,3 +1,4 @@
+#Tableau Sales & Customer Insights
 
 📊 Sales & Customers Dashboard
 This project contains an interactive Sales & Customers Dashboard built using Tableau. The dashboard provides key insights into sales performance, customer behavior, and revenue trends to support data-driven decision-making.
