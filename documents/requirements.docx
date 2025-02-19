@@ -1,0 +1,21 @@
+Sales Dashboard | Requirements
+Dashboard Purpose
+The Sales Dashboard is designed to provide a comprehensive overview of key sales metrics and trends, enabling stakeholders to analyze year-over-year performance and gain insights into sales patterns.
+
+Key Requirements
+🔹 KPI Overview
+
+Summarize total sales, profits, and quantities for both the current and previous years.
+🔹 Sales Trends
+
+Display monthly data for each KPI, comparing the current year with the previous one.
+Highlight months with the highest and lowest sales for quick identification.
+🔹 Product Subcategory Comparison
+
+Analyze sales performance across different product subcategories for both the current and previous years.
+Compare sales figures with profit margins to assess profitability.
+🔹 Weekly Sales & Profit Trends
+
+Visualize weekly sales and profit data for the current year.
+Show average weekly sales to identify fluctuations and trends.
+Emphasize weeks that significantly deviate from the average to highlight key sales and profit performance changes.
